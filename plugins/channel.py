@@ -42,17 +42,17 @@ CAPTION_LANGUAGES = [
 
 UPDATE_CAPTION = """<blockquote>🎉𝖭𝖤𝖶 {} STREAMING NOW</b></blockquote>
 
-🎬 Title:<b>{} {}</b>
+🎬 <b>Title:<b>{} {}</b>
 🔰 <b>Available in:</b> {}
 🔊 <b>Audio:</b> {}
-〽️ Powered by: @KannadaMagaa
+〽️ <b>Powered by: <b>@KannadaMagaa
 
 <b> 📂Download Now </b>
 
 {}
 
-<blockquote>🚀 Download And Dive In !</b></blockquote>
-<blockquote>〽️ ಇನ್ನೂ ಹೆಚ್ಚು ಸಿನಿಮಾ ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಕೆಳಗಿರುವ ಚಾನಲ್ ಗೆ ಸೇರಿಕೊಳ್ಳಿ 👇
+<blockquote><b>🚀 Download And Dive In !</b></blockquote>
+<blockquote><b>〽️ ಇನ್ನೂ ಹೆಚ್ಚು ಸಿನಿಮಾ ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಕೆಳಗಿರುವ ಚಾನಲ್ ಗೆ ಸೇರಿಕೊಳ್ಳಿ 👇
 https://t.me/+2UUjdxPTBQc1ODll</b></blockquote>"""
 
 QUALITY_CAPTION = """✴️ {} : {}\n"""
