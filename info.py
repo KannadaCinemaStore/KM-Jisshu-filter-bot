@@ -86,8 +86,8 @@ SHORTENER_API3 = environ.get(
     "SHORTENER_API3", "a029412747a7633322dfb153f38790ef90bf99cc"
 )
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "vplink.in")
-TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "1440"))
-THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "1440"))
+TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "1"))
+THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "1"))
 
 # Language & Quality & Season & Year
 LANGUAGES = [
