@@ -42,17 +42,18 @@ CAPTION_LANGUAGES = [
 
 UPDATE_CAPTION = """<blockquote>🎉𝖭𝖤𝖶 {} STREAMING NOW</b></blockquote>
 
-🎬 <b>{} {}</b>
-🔰 <b>Quality:</b> {}
+🎬 Title:<b>{} {}</b>
+🔰 <b>Available in:</b> {}
 🔊 <b>Audio:</b> {}
 
-<b> 📂Telegram Files </b>
+<b> 📂Download Now </b>
 
 {}
+<blockquote>🚀 Download And Dive In !</b></blockquote>
+<blockquote>〽️ ಇನ್ನೂ ಹೆಚ್ಚು ಸಿನಿಮಾ ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಕೆಳಗಿರುವ ಚಾನಲ್ ಗೆ ಸೇರಿಕೊಳ್ಳಿ 👇
+https://t.me/+2UUjdxPTBQc1ODll</b></blockquote>"""
 
-<blockquote>〽️ Powered by @KannadaMagaa</b></blockquote>"""
-
-QUALITY_CAPTION = """📥 {} : {}\n"""
+QUALITY_CAPTION = """✴️ {} : {}\n"""
 
 notified_movies = set()
 movie_files = defaultdict(list)
