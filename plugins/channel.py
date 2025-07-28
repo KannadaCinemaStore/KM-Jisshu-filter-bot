@@ -45,10 +45,12 @@ UPDATE_CAPTION = """<blockquote>🎉𝖭𝖤𝖶 {} STREAMING NOW</b></blockquot
 🎬 Title:<b>{} {}</b>
 🔰 <b>Available in:</b> {}
 🔊 <b>Audio:</b> {}
+〽️ Powered by: @KannadaMagaa
 
 <b> 📂Download Now </b>
 
 {}
+
 <blockquote>🚀 Download And Dive In !</b></blockquote>
 <blockquote>〽️ ಇನ್ನೂ ಹೆಚ್ಚು ಸಿನಿಮಾ ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಕೆಳಗಿರುವ ಚಾನಲ್ ಗೆ ಸೇರಿಕೊಳ್ಳಿ 👇
 https://t.me/+2UUjdxPTBQc1ODll</b></blockquote>"""
