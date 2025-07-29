@@ -76,16 +76,16 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/How_To_Open_Links_bypass")
 VERIFY_IMG = environ.get(
     "VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg"
 )
-SHORTENER_API = environ.get("SHORTENER_API", "a029412747a7633322dfb153f38790ef90bf99cc")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "vplink.in")
+SHORTENER_API = environ.get("SHORTENER_API", "a0ee032d61824767b027fe5ae77cf1fb11a8d40b")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "papajiurl.com")
 SHORTENER_API2 = environ.get(
-    "SHORTENER_API2", "a029412747a7633322dfb153f38790ef90bf99cc"
+    "SHORTENER_API2", "a0ee032d61824767b027fe5ae77cf1fb11a8d40b"
 )
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "vplink.in")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "papajiurl.com")
 SHORTENER_API3 = environ.get(
-    "SHORTENER_API3", "a029412747a7633322dfb153f38790ef90bf99cc"
+    "SHORTENER_API3", "a0ee032d61824767b027fe5ae77cf1fb11a8d40b"
 )
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "vplink.in")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "papajiurl.com")
 TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "300"))
 THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "1440"))
 
