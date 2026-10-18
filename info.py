@@ -76,18 +76,18 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/How_To_Open_Links_bypass")
 VERIFY_IMG = environ.get(
     "VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg"
 )
-SHORTENER_API = environ.get("SHORTENER_API", "a0ee032d61824767b027fe5ae77cf1fb11a8d40b")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "papajiurl.com")
+SHORTENER_API = environ.get("SHORTENER_API", "fbf6cba6259272136c36d053ca0cae07cf51d425")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "linkcut.org")
 SHORTENER_API2 = environ.get(
-    "SHORTENER_API2", "a0ee032d61824767b027fe5ae77cf1fb11a8d40b"
+    "SHORTENER_API2", "fbf6cba6259272136c36d053ca0cae07cf51d425"
 )
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "papajiurl.com")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "linkcut.org")
 SHORTENER_API3 = environ.get(
-    "SHORTENER_API3", "a0ee032d61824767b027fe5ae77cf1fb11a8d40b"
+    "SHORTENER_API3", "fbf6cba6259272136c36d053ca0cae07cf51d425"
 )
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "papajiurl.com")
-TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "300"))
-THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "1440"))
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "linkcut.org")
+TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "1"))
+THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "1"))
 
 # Language & Quality & Season & Year
 LANGUAGES = [
