@@ -38,18 +38,18 @@ CHANNELS = [
 ]
 
 # ForceSub Channel & Log Channels
-AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002245219361"))
-AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1002245219361"))
+AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002317257466"))
+AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1002317257466"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1001913629397"))
 LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1001913629397"))
 LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", "-1001913629397"))
 
 # MongoDB
-DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://King1:King1@cluster0.udffg72.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://PRE1:PRE1@cluster0.77frc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get("DATABASE_NAME", "ravikumar1cn")
 
 # Files index database url
-FILES_DATABASE = environ.get("FILES_DATABASE", "mongodb+srv://King2:King2@cluster0.daup34w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+FILES_DATABASE = environ.get("FILES_DATABASE", "mongodb+srv://PRE2:PRE2@cluster0.h3if9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 COLLECTION_NAME = environ.get("COLLECTION_NAME", "ravikumar1cn")
 
 # Other Channel's
@@ -61,7 +61,7 @@ REQUEST_CHANNEL = (
     if request_channel and id_pattern.search(request_channel)
     else None
 )
-MOVIE_UPDATE_CHANNEL = int(environ.get("MOVIE_UPDATE_CHANNEL", "-1002565642490"))
+MOVIE_UPDATE_CHANNEL = int(environ.get("MOVIE_UPDATE_CHANNEL", "-1002557311880"))
 
 # Added Link Here Not Id
 SUPPORT_CHAT = environ.get("SUPPORT_CHAT", "https://t.me/KannadaMagaaBot")
